@@ -1,12 +1,12 @@
-# Read Me First
-The following was discovered as part of building this project:
+# API Rest do Projeto Extrato Bancario
+Um projeto Spring Boot:
 
-* The JVM level was changed from '1.8' to '17', review the [JDK Version Range](https://github.com/spring-projects/spring-framework/wiki/Spring-Framework-Versions#jdk-version-range) on the wiki for more details.
+* Usando JVM nível  '1.8', review the [JDK Version Range](https://github.com/spring-projects/spring-framework/wiki/Spring-Framework-Versions#jdk-version-range) on the wiki for more details.
 
-# Getting Started
+# Começando
 
-### Reference Documentation
-For further reference, please consider the following sections:
+### Documentação de referência
+Para referência adicional, considere as seguintes seções:
 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.0.6/maven-plugin/reference/html/)
