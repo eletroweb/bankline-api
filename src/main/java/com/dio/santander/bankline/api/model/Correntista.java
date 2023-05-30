@@ -12,7 +12,7 @@ import javax.persistence.Table;
 @Table(name = "tab_correntista")
 public class Correntista {
 	@Id
-	@GeneratedValue(strategy = javax.persistence.GenerationType.IDENTITY)
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Integer id;
 	
 	@Column(length = 20)
