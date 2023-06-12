@@ -3,6 +3,8 @@ Um projeto Spring Boot:
 
 * Usando JVM nível  '1.8', review the [JDK Version Range](https://github.com/spring-projects/spring-framework/wiki/Spring-Framework-Versions#jdk-version-range) on the wiki for more details.
 
+* Chegando na etapa final, ficara disponivel para ser modificado se alguém desejar.
+
 # Começando
 
 ### Documentação de referência
